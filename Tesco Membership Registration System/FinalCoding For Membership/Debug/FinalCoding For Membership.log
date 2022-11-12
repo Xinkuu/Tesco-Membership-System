@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (FinalCoding For Membership.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\kiera\source\repos\Tesco Membership Registration System\FinalCoding For Membership\Source.cpp(1251,19): warning C4102: 'SearchList': unreferenced label
+  FinalCoding For Membership.vcxproj -> C:\Users\kiera\source\repos\Tesco Membership Registration System\Debug\Tesco Membership System.exe
